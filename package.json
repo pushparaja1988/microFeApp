@@ -1,0 +1,19 @@
+{
+  "name": "microfeapp",
+  "version": "1.0.0",
+  "description": "Micro frontend app using angular web components",
+  "main": "index.js",
+  "scripts": {
+    "start":"cd wrapper-demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushparaja1988/microFeApp.git"
+  },
+  "author": "Push",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushparaja1988/microFeApp/issues"
+  },
+  "homepage": "https://github.com/pushparaja1988/microFeApp#readme"
+}
